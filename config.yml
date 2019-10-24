@@ -15,3 +15,7 @@ jobs:
           command: |
             ls -al
             echo '^^^That should look familiar^^^'
+      - run:
+          name: vat
+          command: |
+            echo 'vat'
