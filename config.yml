@@ -8,8 +8,8 @@ jobs:
       - run:
           name: First Step
           command: |
-            echo 'Hello World!'
-            echo 'This is the delivery pipeline'
+            echo 'Hello shit'
+            echo 'Suomi finland perkele'
       - run:
           name: Code Has Arrived
           command: |
